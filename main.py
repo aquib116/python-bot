@@ -5,14 +5,14 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "TRON"
 
-BOT_TOKEN = "5710284858:AAHcIDYAtWAC01p8BsHRl4cIwhcKpBqNlTQ"
-PAYMENT_CHANNEL = "@testpostchnl" #add payment channel here including the '@' sign
-OWNER_ID = 5151868182 #write owner's user id here.. get it from @MissRose_Bot by /id
-CHANNELS = ["@testpostchnl"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
+BOT_TOKEN = "7378076729:AAEU1aT-NvCEXxi2Hu1f_3xVbBPjmZFPR3c"
+PAYMENT_CHANNEL = "@paymentoutbb" #add payment channel here including the '@' sign
+OWNER_ID = 5851158054 #write owner's user id here.. get it from @MissRose_Bot by /id
+CHANNELS = ["@XyzLooter", "@AruSHVerifiedBOTS", "@freecashfokat", "@BLACK_MONEY_GIVEAWAY", "@EARNBYSK008", "@earningrtr", "@ammuxchannel", "@ARYANIDsHUB", "https://t.me/+91CsZWinvD5iMWNl", "https://t.me/+K4t15V2Sbu1lZGFl"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
-Daily_bonus = 1 #Put daily bonus amount here!
-Mini_Withdraw = 0.5  #remove 0 and add the minimum withdraw u want to set
-Per_Refer = 0.0001 #add per refer bonus here
+Daily_bonus = 2 #Put daily bonus amount here!
+Mini_Withdraw = 5  #remove 0 and add the minimum withdraw u want to set
+Per_Refer = 1.5 #add per refer bonus here
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
